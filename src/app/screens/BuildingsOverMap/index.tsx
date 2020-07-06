@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import { View, ActivityIndicator } from "react-native";
 
-import MapView, { Overlay, PROVIDER_GOOGLE, MAP_TYPES } from "react-native-maps";
+import MapView, { Overlay, PROVIDER_GOOGLE } from "react-native-maps";
 import SitumPlugin from "react-native-situm-plugin";
 
 import styles from "./styles";
